@@ -11,7 +11,7 @@ Foram utilizados os pacotes AutoMapper, EntityFramework, AspNetCore, MySql e New
  - Lazy properties são usadas ára carregar informações de outra entidade.
  - Relacionamento 1:n estabelece relação de uma entidade e várias outras.
  - Problemas de loops podem ser resolvidos com AutoMapper e CreateMap(), além do JsonIgnore.
- - O que é remoção por cascata e cini alterar seu modo através do OnModelCreating.
+ - O que é remoção por cascata e como alterar seu modo através do OnModelCreating.
  - Como tornar um atributo de chave estrangeira obrigatório ou não com isRequired.
  - Relacionamento n:n é usado para relacionar muitas entidades com muitas outras.
  - Como quebrar um relacionamento n:n para 1:n, criando uma entidade intermediária.
