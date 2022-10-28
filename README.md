@@ -8,7 +8,7 @@ Foram utilizados os pacotes AutoMapper, EntityFramework, AspNetCore, MySql e New
 ## Conceitos aprendidos no curso
  - Relacionamentos 1:1 deve ser utilizado quando queremos uq euma entidade possua exatamente outra como par.
  - Como utilizar o ModelBuilder para explicitar como ocorrerá o relacionamento.
- - Lazy properties são usadas ára carregar informa~çoes de outra entidade.
+ - Lazy properties são usadas ára carregar informações de outra entidade.
  - Relacionamento 1:n estabelece relação de uma entidade e várias outras.
  - Problemas de loops podem ser resolvidos com AutoMapper e CreateMap(), além do JsonIgnore.
  - O que é remoção por cascata e cini alterar seu modo através do OnModelCreating.
